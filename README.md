@@ -14,7 +14,6 @@ This Project is regarding information collecton of a Person,
 
 This Task uses a number of open source projects to work properly:
 
-- [VueJS] - HTML enhanced for web apps!
 - [Bootstrap Vue] - great UI boilerplate for modern web apps
 - [Express] - fast node.js network app framework 
 to Markdown converter
@@ -22,7 +21,7 @@ to Markdown converter
 
 ## Installation
 
-It requires [PHP](https://www.php.net/) v7.0+ to run API and [NodeJs](https://nodejs.org/en/) stable version.
+It requires [PHP](https://www.php.net/) v7.0+ stable version.
 
 Install the dependencies and devDependencies and start the server.
 
@@ -44,6 +43,7 @@ Instructions on how i use this plugin below.
 | ------ | ------ |
 | Heroku | To host application on server |
 | GIt | To Manage Project |
+| maatwebsite excel | To Manage CSV file upload and export |
 
 
 ## License
