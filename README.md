@@ -34,14 +34,6 @@ php artisan key:gen
 php artisan serve
 ```
 
-For Client Site...
-
-```sh
-git clone URL
-cd project-name
-yarn install
-yarn serve
-```
 
 ## Plugins
 
@@ -50,10 +42,6 @@ Instructions on how i use this plugin below.
 
 | Plugin | USES |
 | ------ | ------ |
-| Vuetable | To make Pagination and easy to maintain with heavy data |
-| vuelidate | To validate the frontend side fields |
-| vue-router | To navigate a page |
-| axios | To handle api request |
 | Heroku | To host application on server |
 | GIt | To Manage Project |
 
